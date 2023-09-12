@@ -1,3 +1,4 @@
+/* eslint-disable */
 looker.plugins.visualizations.add({
   options: {
     token: {
